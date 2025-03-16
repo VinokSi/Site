@@ -1,0 +1,50 @@
+.faclok {
+  border-style: inset;
+  border-width: 10px;
+  border-color: rgb(69, 5, 247);
+  border-radius: 20px;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 750px;
+  background-color: rgb(147, 147, 247);
+}
+
+.kartin {
+  width: 500px;
+  height: auto;
+  border-radius: 20px;
+  margin-left: 500px;
+  margin-top: 3px;
+}
+
+.kartin2 {
+  position:fixed;
+  width: 200px;
+  height: auto;
+  border-radius: 50px;
+  margin-left: 200px;
+  margin-top: 175px;
+}
+
+.linia {
+  margin: 20px 0;
+  padding: 0;
+  height: 0;
+  border: none;
+  border-top: 5px solid #b81414;
+}
+
+.centr {
+margin-left: 200px;
+  margin-right: auto;
+  font-size: 80px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(0, 0, 0);}
+
+  .fon { margin: 0;
+      padding: 0;
+      height: 100vh;
+      background-image: url(https://i.pinimg.com/originals/e6/0c/4a/e60c4ae6305c1b5d57e9954166761db9.gif);
+      background-size: cover; 
+      background-position: center;
+  }
